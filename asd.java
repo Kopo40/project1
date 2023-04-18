@@ -12,7 +12,7 @@ public class P1 {
 		//////
 		kopo40 = 1+2*3; // 
 		System.out.printf("#1-2 : %d\n" , kopo40); // 두번째 결과를 출력. 3*2를 먼저 하고 1을 더했으므로 결과값은 7이 출력됨.
-        int a = 3;
+        int a = 13;
 	}
 
 }
